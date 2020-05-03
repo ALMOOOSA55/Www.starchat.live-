@@ -1,2 +1,1 @@
-# Www.starchat.live-
-StarChat 
+تطبيق StarChat ستار شات للدردشة الصوتية 
